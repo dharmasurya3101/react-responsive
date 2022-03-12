@@ -11,14 +11,7 @@ function App() {
   return (
     <div className="App">
       
-       {/*<BasicCart name='RRR' price='295' img="https://img.republicworld.com/republic-prod/stories/images/xxhdpi/vupf0bx9is7tjbzc_1645073778.jpeg?1645073789626"/>
-      <BasicCart name='RRR' price='295' img="https://img.republicworld.com/republic-prod/stories/images/xxhdpi/vupf0bx9is7tjbzc_1645073778.jpeg?1645073789626"/>
-      <BasicCart name='RRR' price='295' img="https://img.republicworld.com/republic-prod/stories/images/xxhdpi/vupf0bx9is7tjbzc_1645073778.jpeg?1645073789626"/>
-      <BasicCart name='RRR' price='295' img="https://img.republicworld.com/republic-prod/stories/images/xxhdpi/vupf0bx9is7tjbzc_1645073778.jpeg?1645073789626"/>
-      <BasicCart name='RRR' price='295' img="https://img.republicworld.com/republic-prod/stories/images/xxhdpi/vupf0bx9is7tjbzc_1645073778.jpeg?1645073789626"/>
-      <BasicCart name='RRR' price='295' img="https://img.republicworld.com/republic-prod/stories/images/xxhdpi/vupf0bx9is7tjbzc_1645073778.jpeg?1645073789626"/>
-      <BasicCart name='RRR' price='295' img="https://img.republicworld.com/republic-prod/stories/images/xxhdpi/vupf0bx9is7tjbzc_1645073778.jpeg?1645073789626"/>
-         */}
+      
         <TopBar />
         <ImageSection />
         <BasicCart name='python' img="https://www.elearninfotech.com/img/courses/python.webp" />
