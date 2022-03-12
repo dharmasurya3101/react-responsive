@@ -1,0 +1,110 @@
+
+.movie
+{
+    width: 100%;
+}
+
+.subpart
+{
+    width:24%;
+    float:left;
+}
+
+
+ .box
+ {
+     width: 250px;
+     float: left;
+     background-color: grey;
+     padding: 10px 10px;
+     border: 2px 2p 4px 4px solid rgba(179, 179, 179, 0.226) ;
+     margin: 8px;
+     height: 250px;
+ }
+
+ .left{
+     float: left;
+ }
+
+     
+    img{
+
+        max-width: 100%;
+        width:1550px;
+        height:400px;
+    }
+ .image
+ {
+     width:250px;
+     height:190px;
+ }
+
+ .button
+ {
+     background-color: burlywood;
+     color: brown;
+     padding: 10px;
+     width: 150px;
+     font-size: 24px;
+     font-weight: bold;
+ }
+
+ .topbar
+ {
+    background-image: linear-gradient(to left bottom, #ef602b, #e37035, #d77d43, #cc8853, #c19165);
+     height: 50px;
+     width: 100%;
+ }
+
+ .tbp
+ {
+     color: snow;
+     font-weight: bold;
+     font-size: 16px;
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     padding: 10px;
+     text-align:left;
+ }
+
+ .tbp a
+ {
+     text-decoration: none;
+     color:snow;
+     
+ }
+
+ .fr
+ {
+     float:right;
+     text-align: end;
+ }
+
+ a:hover{
+     color: red;
+ }
+
+ img
+ {
+    max-width: 100%;
+ }
+
+ h4{
+     margin-bottom: 10px;
+ }
+     
+ 
+ .mark
+ {
+     
+     font-weight: 500;
+     color: aliceblue;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     
+     background-color:#0e8bd8 !important ;
+     font-size:larger;
+     height: 40px;
+ }
+
+ .mb30{
+    margin-bottom: 30px;
+ }
