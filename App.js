@@ -14,6 +14,9 @@ import BasicStates from './components/basicStates';
 import BasicBind from './components/basicBind';
 import BasicCondition from './components/basicCondition';
 import BasicList from './components/basicList';
+import BasicGet from './components/basicGet';
+import BasicArrayList from './components/basicArrayList';
+import React from 'react';
 
 function App() {
   return (
@@ -33,11 +36,14 @@ function App() {
         </div>
       </div>      
        
-    </div> */}
-    {/* <BasicStates /> */}
-    {/* <BasicBind /> */}
-    {/* <BasicCondition /> */}
-    <BasicList />
+    </div> 
+     <BasicStates /> 
+     <BasicBind />
+     <BasicCondition /> 
+     <BasicList /> 
+     
+  <BasicArrayList /> */}
+     <BasicGet />
     </div>
   );
 }
